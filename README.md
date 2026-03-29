@@ -1,0 +1,1 @@
+# Social Media Assets\n\nProcessed images for Buffer scheduling. Auto-managed by Social Studio.
